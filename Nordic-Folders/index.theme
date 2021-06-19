@@ -2,7 +2,7 @@
 Name=Nordic-Folders
 Comment=Folders for Nordic darker gtk theme.
 
-Inherits=Numix-Apps,Archcraft-Dark
+Inherits=Numix-Apps,Archcraft-Dark,Papirus
 
 # Directory list
 Directories=Places/48,Places/64,Places/96

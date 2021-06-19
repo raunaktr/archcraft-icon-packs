@@ -2,7 +2,7 @@
 Name=Numix-Apps-White
 Comment=Icon theme from Numix Project
 
-Inherits=Numix-Apps
+Inherits=Numix-Apps,Papirus
 Example=folder
 
 Directories=48/apps,48@2x/apps
